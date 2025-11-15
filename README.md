@@ -6,17 +6,17 @@ Atualmente, estou construindo projetos reais para fortalecer meu portfólio e me
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-- **Backend:** Java 21 · Spring Boot 3 · Spring Data JPA · PostgreSQL  
+- **Backend:** Java 21 · Spring Boot 3 · Spring Data JPA · SQL  
 - **Frontend:** Angular  
-- **Arquitetura:** DTO Pattern · Services Layer · Repositories · Controllers  
-- **Outros:** Docker · Git · GitHub · Bean Validation · Lombok
+- **Arquitetura:** DDD (camadas: Application · Domain · Infrastructure)  
+- **Outros:** Docker · Git · GitHub · Bean Validation 
 
 ---
 
 ## 📌 O que estou estudando atualmente
 - Relacionamentos JPA avançados (1:N, N:N, 1:1, tabelas de junção)
 - Modelagem de bancos relacionais
-- Arquitetura DDD (camadas: Application · Domain · Infrastructure), DTO Pattern, Services isolando regras, Exception Handler global
+- Arquitetura DDD (camadas: Application · Domain · Infrastructure)
 - Tratamento global de exceções
 - EntityGraph, transactions e performance no JPA
 - Práticas de Git e versionamento profissional
