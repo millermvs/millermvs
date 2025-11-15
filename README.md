@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Miller
 
-Sou um desenvolvedor em formação, focado em **Java, Spring Boot, Angular e SQL**, com dedicação total a aprender boas práticas, arquitetura limpa e modelagem de domínio.  
+Desenvolvedor focado em **Java, Spring Boot, Angular e SQL**, com dedicação total a aprender boas práticas, arquitetura limpa e modelagem de domínio.  
 Atualmente, estou construindo projetos reais para fortalecer meu portfólio e me preparar para atuar como **Desenvolvedor Full Stack**.
 
 ---
