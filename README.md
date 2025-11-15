@@ -16,7 +16,7 @@ Atualmente, estou construindo projetos reais para fortalecer meu portfólio e me
 ## 📌 O que estou estudando atualmente
 - Relacionamentos JPA avançados (1:N, N:N, 1:1, tabelas de junção)
 - Modelagem de bancos relacionais
-- Arquitetura em camadas (Clean-ish Architecture)
+- Arquitetura DDD (camadas: Application · Domain · Infrastructure), DTO Pattern, Services isolando regras, Exception Handler global
 - Tratamento global de exceções
 - EntityGraph, transactions e performance no JPA
 - Práticas de Git e versionamento profissional
