@@ -32,7 +32,7 @@ Sistema de agendamento completo feito com Java + Spring Boot, com:
 - DTOs e Services com regras de negócio
 - Exception Handler global
 - Padrão de arquitetura em camadas (Controller → Service → Repository → Domain)
-🔗 *Link do repositório:* https://github.com/millermvs/sistemaparaclinicas
+- 🔗 *Link do repositório:* https://github.com/millermvs/sistemaparaclinicas
 
 ---
 
