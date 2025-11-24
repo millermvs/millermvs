@@ -24,14 +24,15 @@ Atualmente, estou construindo projetos reais para fortalecer meu portfólio e me
 ---
 
 ## 🏗 Projetos em destaque
-### 📚 Faculdade Vale dos Jarros (Backend)
-Sistema acadêmico completo feito com Java + Spring Boot, com:
-- Departamentos, Cursos, Disciplinas, Turmas, Professores e Salas  
-- Relações JPA ricas (1:N, N:1, 1:1)
+### 🏥 Sistema de Agendamentos de Clínica (Backend)
+Sistema de agendamento completo feito com Java + Spring Boot, com:
+- Cadastro de Clínicas, Médicos, Pacientes e Consultas  
+- Modelagem rica: Clínica → Médicos (1:N) | Médico ↔ Consulta ↔ Paciente
+- Consulta modelada como entidade de associação rica
 - DTOs e Services com regras de negócio
 - Exception Handler global
-- EntityGraph para consultas otimizadas  
-🔗 *Link do repositório:* https://github.com/millermvs/BackEndFaculdadeValeDosJarros
+- Padrão de arquitetura em camadas (Controller → Service → Repository → Domain)
+🔗 *Link do repositório:* https://github.com/millermvs/sistemaparaclinicas
 
 ---
 
